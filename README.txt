@@ -1,6 +1,7 @@
 刘佳晖的博客
+===========
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+欢迎来到刘佳晖的博客。
 
 
 This is Prologue, a simple, single page responsive site template. It features a
